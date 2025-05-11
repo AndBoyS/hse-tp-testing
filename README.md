@@ -15,3 +15,8 @@ Linux/Mac:
 python -m venv .venv
 .venv/bin/activate
 ```
+
+Далее нужно установить необходимые библиотеки:
+```bash
+pip install -r requirements.txt
+```
