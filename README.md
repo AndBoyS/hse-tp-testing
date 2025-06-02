@@ -1,3 +1,5 @@
+![CI](https://github.com/AndBoyS/hse-tp-testing/actions/workflows/ci.yml/badge.svg)
+
 Примеры того, как использовать pytest и Github Actions
 
 ## Запуск
